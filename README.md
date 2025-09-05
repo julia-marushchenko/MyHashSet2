@@ -1,2 +1,2 @@
 # MyHashSet2
-// Java program to use HashSet
+Java program to use HashSet
